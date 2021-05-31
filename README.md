@@ -4,7 +4,7 @@
 
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 I’m currently always learning forever: :snake: Python || 🛢 MySQL
-- :books: Exploring and Studying: :bar_chart: Visualization Data || :chart_with_upwards_trend: Manipulation Data
+- :books: Exploring and Studying: :bar_chart: Visualization Data || :chart_with_upwards_trend: Manipulation Data || :space_invader: Machine Learning || 🤖 Artificial Intelligence
 
 
 <h2>:computer:  Strength</h2>
