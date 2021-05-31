@@ -1,12 +1,13 @@
 <h1> Hi there 👋 I'm Teddy Firman and I'm :snake: Python User.</h1>
 
-👨🏻‍💻  about me :
+<h2>👨🏻‍💻  about me :</h2>
 
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 I’m currently always learning forever: :snake: Python || 🛢 MySQL
+- :books: Exploring and Studying: :bar_chart: Visualization Data || :chart_with_upwards_trend: Manipulation Data
 
 
-<h1>:computer:  Strength</h1>
+<h2>:computer:  Strength</h2>
 
 :snake: Python 
 
@@ -15,7 +16,7 @@
 
 🔧   Visual Studio Code || 🪐 Jupyter 
 
-Little Bit :
+<h2> :ant: Little Bit : </h2>
 
 🌐   HTML5, CSS, JavaScript 
 
