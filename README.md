@@ -10,6 +10,4 @@
 
 Little Bit :
 🌐   HTML5 CSS Java 
-🛢   MySQL
-⚙️   Git GitHub Markdown
-🔧   Visual Studio Code
+
