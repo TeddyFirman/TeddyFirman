@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I'm Teddy Firman and I'm :snake: Python User.</h1>
 
-<h2>👨🏻‍💻  about me :</h2>
+<h2>👨🏻‍💻  About me :</h2>
 
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 I’m currently always learning forever: :snake: Python || 🛢 MySQL
