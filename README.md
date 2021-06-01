@@ -7,7 +7,7 @@
 - :books: Exploring and Studying: :bar_chart: Visualization Data || :chart_with_upwards_trend: Manipulation Data || :space_invader: Machine Learning || 🤖 Artificial Intelligence
 
 
-<h2>:computer:  Strength</h2>
+<h2>:computer:  Strength :</h2>
 
 :snake: Python 
 
