@@ -11,7 +11,6 @@
 
 :snake: Python 
 
-
 🛢   MySQL
 
 🔧   Visual Studio Code || 🪐 Jupyter || TensorFlow
@@ -20,4 +19,15 @@
 
 🌐   HTML5, CSS, JavaScript, PHP
 
-:coffee: Java 
+
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&show_icons=true&theme=tokyonight&line_height=20)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&layout=compact&theme=tokyonight&card_width=400&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
