@@ -24,7 +24,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&show_icons=true&theme=tokyonight&line_height=20)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&layout=compact&theme=tokyonight&card_width=270&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&show_icons=true&theme=tokyonight&line_height=20&count_private=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&layout=compact&theme=tokyonight&card_width=270&langs_count=10&count_private=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
