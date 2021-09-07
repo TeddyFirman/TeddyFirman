@@ -15,7 +15,7 @@
 
 - Data Science 🧪 :  ![python](https://img.shields.io/badge/-TensorFlow-yellow?style=flat&logo=tensorflow&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange) 
 
-- Web 🌐 :  ![python](https://img.shields.io/badge/-HTML-yellow?style=flat&logo=html5&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-CSS-yellow?style=flat&logo=CSS3&color=grey&logoColor=blue) ![python](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&color=grey&logoColor=yellow) ![python](https://img.shields.io/badge/-PHP-yellow?style=flat&logo=PHP&color=grey&logoColor=navy) 
+- Web 🌐 :  ![python](https://img.shields.io/badge/-HTML-yellow?style=flat&logo=html5&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-CSS-yellow?style=flat&logo=CSS3&color=grey&logoColor=blue) ![python](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&color=grey&logoColor=yellow) ![python](https://img.shields.io/badge/-PHP-yellow?style=flat&logo=PHP&color=grey&logoColor=navy) 
 
 - Tools ⚙️ :  ![python](https://img.shields.io/badge/-GIT-yellow?style=flat&logo=git&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-Visual_Studio_Code-yellow?style=flat&logo=visualstudiocode&color=grey&logoColor=blue) 
 
