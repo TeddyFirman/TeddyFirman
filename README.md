@@ -9,7 +9,7 @@
 
 <h2>:computer:  Technology :</h2>
 
-- Main :pushpin::  ![python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&color=grey&logoColor=khaki)  
+- Main :pushpin::  ![python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&color=grey)  
 
 - Database 🛢 :  ![python](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql&color=grey&logoColor=blue) 
 
