@@ -11,7 +11,7 @@
 
 - Main :pushpin::  ![python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&color=grey&logoColor=khaki)  
 
-- Database 🛢 :  ![python](https://img.shields.io/badge/-MySql-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql&color=grey&logoColor=blue) 
+- Database 🛢 :  ![python](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql&color=grey&logoColor=blue) 
 
 - Data Science 🧪 :  ![python](https://img.shields.io/badge/-TensorFlow-yellow?style=flat&logo=tensorflow&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange) 
 
