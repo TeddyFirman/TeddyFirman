@@ -4,7 +4,7 @@
 
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 I’m currently always learning and enthusiast forever: :snake: Python  
-- :books: Interests, Learning and Enthusiast: :bar_chart: Data Science || :space_invader: Machine Learning || 🤖 Artificial Intelligence
+- :books: Interests, Learning and Enthusiast: :bar_chart: Data Science || :space_invader: Machine Learning 
 
 
 <h2>:computer:  Technology :</h2>
