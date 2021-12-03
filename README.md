@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Teddy Firman and I'm Python User :snake:.</h1>
+<h1> Hi there 👋 I'm Teddy Firman and I'm Machine Learning Enthusiast :space_invader:.</h1>
 
 <h2>👨🏻‍💻  About me :</h2>
 
