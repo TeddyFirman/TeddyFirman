@@ -17,7 +17,7 @@
 
 - Web 🌐 :  ![python](https://img.shields.io/badge/-HTML-yellow?style=flat&logo=html5&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-CSS-yellow?style=flat&logo=CSS3&color=grey&logoColor=blue) ![python](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&color=grey&logoColor=yellow) ![python](https://img.shields.io/badge/-PHP-yellow?style=flat&logo=PHP&color=grey&logoColor=navy) 
 
-- Tools ⚙️ :  ![python](https://img.shields.io/badge/-GIT-yellow?style=flat&logo=git&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-Visual_Studio_Code-yellow?style=flat&logo=visualstudiocode&color=grey&logoColor=blue) 
+- Tools ⚙️ :  ![python](https://img.shields.io/badge/-Linux_(Manjaro)-green?style=flat&logo=linux&color=grey&logoColor=green) ![python](https://img.shields.io/badge/-GIT-yellow?style=flat&logo=git&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-Visual_Studio_Code-yellow?style=flat&logo=visualstudiocode&color=grey&logoColor=blue)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
