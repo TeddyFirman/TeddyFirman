@@ -20,7 +20,7 @@
 - Tools ⚙️ :  ![python](https://img.shields.io/badge/-Linux_(Arch_Based)-green?style=flat&logo=linux&color=grey&logoColor=green) ![python](https://img.shields.io/badge/-GIT-yellow?style=flat&logo=git&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-Visual_Studio_Code-yellow?style=flat&logo=visualstudiocode&color=grey&logoColor=blue)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
