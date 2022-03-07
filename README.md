@@ -9,11 +9,11 @@
 
 <h2>:computer:  Technology :</h2>
 
-- Main :pushpin::  ![python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python&color=grey)  
+- Main :pushpin::  	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 
-- Database 🛢 :  ![python](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql&color=grey&logoColor=blue) 
+- Database 🛢 :  ![python](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-- Machine Learning 🤖 :  ![python](https://img.shields.io/badge/-TensorFlow-yellow?style=flat&logo=tensorflow&color=grey&logoColor=orange)    ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&color=grey&logoColor=white)   ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange)  
+- Machine Learning 🤖 :  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 - Web 🌐 :  ![python](https://img.shields.io/badge/-HTML-yellow?style=flat&logo=html5&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-CSS-yellow?style=flat&logo=CSS3&color=grey&logoColor=blue) ![python](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&color=grey&logoColor=yellow) ![python](https://img.shields.io/badge/-PHP-yellow?style=flat&logo=PHP&color=grey&logoColor=navy) 
 
