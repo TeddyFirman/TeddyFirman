@@ -13,7 +13,7 @@
 
 - Database 🛢 :  ![python](https://img.shields.io/badge/-MySQL-yellow?style=flat&logo=MySQL&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-PostgreSQL-yellow?style=flat&logo=postgresql&color=grey&logoColor=blue) 
 
-- Machine Learning 🤖 :  ![python](https://img.shields.io/badge/-TensorFlow-yellow?style=flat&logo=tensorflow&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange) 
+- Machine Learning 🤖 :  ![python](https://img.shields.io/badge/-TensorFlow-yellow?style=flat&logo=tensorflow&color=grey&logoColor=orange) ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange)  ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&color=grey&logoColor=white)
 
 - Web 🌐 :  ![python](https://img.shields.io/badge/-HTML-yellow?style=flat&logo=html5&color=grey&logoColor=red) ![python](https://img.shields.io/badge/-CSS-yellow?style=flat&logo=CSS3&color=grey&logoColor=blue) ![python](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&color=grey&logoColor=yellow) ![python](https://img.shields.io/badge/-PHP-yellow?style=flat&logo=PHP&color=grey&logoColor=navy) 
 
