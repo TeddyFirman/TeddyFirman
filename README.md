@@ -4,12 +4,12 @@
 
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 I’m currently always learning and enthusiast forever: :snake: All About Python  
-- :books: Interests, Learning and Enthusiast: :snake: Python Developer || :space_invader: Machine Learning 
+- :books: Interests, Learning and Enthusiast: :snake: Python || :space_invader: Machine Learning || 🦦 GO
 
 
 <h2>:computer:  Technology :</h2>
 
-- Main :pushpin::  	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange)
+- Main :pushpin::  	![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![python](https://img.shields.io/badge/-Jupyter_Notebook-yellow?style=flat&logo=jupyter&color=grey&logoColor=orange)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
 - Database 🛢 :  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
