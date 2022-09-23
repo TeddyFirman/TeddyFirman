@@ -3,7 +3,7 @@
 <h2>👨🏻‍💻  About me :</h2>
 
 - :mortar_board: I’m Studying at State University of Surabaya 
-- 🧑‍💻 I’m currently always learning and enthusiast forever: :snake: All About Python  
+- 🧑‍💻 I’m currently always learning and enthusiast forever: :snake: Python Tech & Back-End Tech(🦦 GO, 🐘 PHP)
 - :books: Interests, Learning and Enthusiast: :snake: Python || :space_invader: Machine Learning || 🦦 GO
 
 
