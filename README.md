@@ -32,7 +32,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![@tedd404's Holopin board](https://holopin.io/api/user/board?user=tedd404)](https://holopin.io/@tedd404)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
