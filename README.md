@@ -1,3 +1,7 @@
+
+![gitartwork](gitartwork.svg)
+
+
 <h1> Hi there 👋 I'm Teddy Firman and I'm Machine Learning Enthusiast :space_invader:.</h1>
 
 <h2>👨🏻‍💻  About me :</h2>
