@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: TeddyFirman
             # Text on contribution graph 
-            text: Welcome to TEDD84.PY
+            text: Welcome|TEDD84
        - uses: jasineri/simple-push-action@v1
