@@ -23,7 +23,7 @@
 
 - Tools ⚙️ :  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
-- Total Hours Code ⏰ : [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac)
+<!-- - Total Hours Code ⏰ : [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
