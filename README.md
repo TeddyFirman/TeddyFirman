@@ -28,8 +28,8 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyFirman&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
