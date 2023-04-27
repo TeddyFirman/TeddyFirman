@@ -1,6 +1,8 @@
 
 ![gitartwork](gitartwork.svg)
 
+### Now Listening 🎧
+[![Spotify](https://novatorem-sable-psi.vercel.app/api/spotify)](https://open.spotify.com/user/Tesman)
 
 <h1> Hi there 👋 I'm Teddy Firman and I'm Back-End Tech Enthusiast 🌐.</h1>
 
@@ -9,8 +11,7 @@
 - :mortar_board: I’m Studying at State University of Surabaya 
 - 🧑‍💻 :books: I’m currently always learning and enthusiast forever: Back-End Tech 🌐
 
-### Now Listening 🎧
-[![Spotify](https://novatorem-sable-psi.vercel.app/api/spotify)](https://open.spotify.com/user/Tesman)
+
 
 <h2>:computer:  Technology :</h2>
 
