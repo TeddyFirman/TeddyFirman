@@ -42,8 +42,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=TeddyFirman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=TeddyFirman&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 
