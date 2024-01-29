@@ -36,14 +36,17 @@
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
+- Top 10 Language 🗣️ :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+ 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
