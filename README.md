@@ -37,7 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  -->
 
