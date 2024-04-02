@@ -36,9 +36,9 @@
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
-- Top 10 Language 🗣️ :
+<h2>⏳ Coding Hours :</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
