@@ -39,6 +39,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=TeddyFirman&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
 
 <h2>⏳ Coding Hours :</h2>
+<!-- [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac) -->
+
+[![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)-->
 
