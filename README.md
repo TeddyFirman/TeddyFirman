@@ -21,12 +21,6 @@
 - 🌱 I’m currently always learning and enthusiast forever: Back-End Tech 🌐
 ---
 
-📊 Stats
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyFirman&theme=tokyonight)
-
 
 <!-- <h1> Hi there 👋 I'm Teddy Firman and I'm Back-End Tech Enthusiast 🌐.</h1> -->
 
@@ -66,6 +60,12 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac) -->
 
 [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac)
+
+📊 Stats
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyFirman&theme=tokyonight)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)-->
 
