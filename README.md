@@ -4,12 +4,36 @@
 ### Now Listening 🎧
 [![Spotify](https://novatorem-sable-psi.vercel.app/api/spotify)](https://open.spotify.com/user/Tesman)
 
-<h1> Hi there 👋 I'm Teddy Firman and I'm Back-End Tech Enthusiast 🌐.</h1>
 
-<h2>👨🏻‍💻  About me :</h2>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=TeddyFirman&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="TeddyFirman" /> </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Teddy+Firman+" />
+</h3>
+
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+
+---
+
+- 🔭 I'm a Backend Tech Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently learning how to code properly
+- 🌱 I’m currently always learning and enthusiast forever: Back-End Tech 🌐
+---
+
+📊 Stats
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyFirman&theme=tokyonight)
+
+
+<!-- <h1> Hi there 👋 I'm Teddy Firman and I'm Back-End Tech Enthusiast 🌐.</h1> -->
+
+<!-- <h2>👨🏻‍💻  About me :</h2>
 
 - :mortar_board: I’m Studying at State University of Surabaya 
-- 🧑‍💻 :books: I’m currently always learning and enthusiast forever: Back-End Tech 🌐
+- 🧑‍💻 :books: I’m currently always learning and enthusiast forever: Back-End Tech 🌐 -->
 
 
 
