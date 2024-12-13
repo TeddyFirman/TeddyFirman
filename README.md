@@ -61,17 +61,17 @@
 
 [![wakatime](https://wakatime.com/badge/user/40f88de2-b23b-42f6-b098-b034e23341ac.svg)](https://wakatime.com/@40f88de2-b23b-42f6-b098-b034e23341ac)
 
-📊 Stats
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyFirman&theme=tokyonight)
-
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&langs_count=10)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyFirman&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+📊 Stats
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyFirman&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
