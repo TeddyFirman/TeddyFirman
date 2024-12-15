@@ -73,7 +73,7 @@
  
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 Stats
+<h2>📊 Stats :</h2>
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyFirman&theme=tokyonight)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TeddyFirman&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
