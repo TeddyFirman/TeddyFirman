@@ -71,7 +71,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tedd404&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <h2>📊 Stats :</h2>
 
